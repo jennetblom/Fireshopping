@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481313097307",
+    "project_id": "fireshoppingwithrecyclerview",
+    "storage_bucket": "fireshoppingwithrecyclerview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481313097307:android:805d211ca5ee662ee2617e",
+        "android_client_info": {
+          "package_name": "com.example.fireshoppingwithrecyclerview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiCtKvJap2CivaI93CPM5T7oDo-qCBoI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
